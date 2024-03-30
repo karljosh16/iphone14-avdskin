@@ -7,6 +7,6 @@ Steps to create:
 1. New Hardware Profile
 2. Set Screen Size : 6.1 inch
 3. Set Resolution 960x1948
-4. Select the folder iphone14-avdskin
-5. in Advanced Settings, make sure iphone14-avdskin is selected
+4. Select the folder "iphone14 Android Emulator Skin"
+5. in Advanced Settings, make sure "iphone14 Android Emulator Skin" is selected
 6. done
