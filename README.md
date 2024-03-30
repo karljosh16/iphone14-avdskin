@@ -1,5 +1,5 @@
 # iphone14-avdskin
-Iphone 14 AVD Skin for android emualtor
+Iphone 14 Skin for Android Emulator
 
 ![Screenshot](https://github.com/karljosh16/iphone14-avdskin/assets/13885187/589b7172-de54-46fa-a77a-b82ac6ae7d1f)
 
